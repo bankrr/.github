@@ -1,3 +1,3 @@
 # bankrr
 
-Collection of R packages to read and tidy documents from italian banks.
+Collection of R packages for reading and tidying Italian bank documents
